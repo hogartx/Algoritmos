@@ -1,0 +1,1 @@
+# 18) Elaborar uma rotina que, a partir de quatro números inteiros que deverão ser digitados pelo usuário, determine e mostre o maior número par.

@@ -1,0 +1,1 @@
+# 21) Elaborar uma rotina que determine e mostre a diferença entre o maior e o menor valor dentre quatro números reais fornecidos pelo usuário.

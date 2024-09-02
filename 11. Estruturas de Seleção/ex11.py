@@ -1,0 +1,1 @@
+# 11) A partir dos lados de um retângulo ou quadrado, digitados pelo usuário, elaborar uma rotina que calcule e exiba o valor da sua área e informe se o mesmo é um retângulo ou um quadrado. Lembrando que a área é obtida pela multiplicação da base (L) pela altura (A)

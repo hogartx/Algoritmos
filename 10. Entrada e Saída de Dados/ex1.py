@@ -5,5 +5,4 @@
 nome = input("Digite seu nome: ")
 sobrenome = input("Agora digite seu sobrenome: ")
 # Exibe o nome no formato "nome e sobrenome"
-print ("seu nome completo é:", nome, sobrenome)
-
+print (f"seu nome completo é: {sobrenome}, {nome}")
