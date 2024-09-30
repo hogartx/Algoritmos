@@ -1,4 +1,4 @@
-# 10) Elaborar um programa que realize a resolução de uma equação do 2º grau utilizando, para isso, a Fórmula de Báskara.
+# 11) Elaborar um programa que realize a resolução de uma equação do 2º grau utilizando, para isso, a Fórmula de Báskara.
 
 # Solicita os coeficientes da equação ao usuário
 a = float(input("Digite o coeficiente a: "))

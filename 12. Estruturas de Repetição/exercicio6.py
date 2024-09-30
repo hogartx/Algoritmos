@@ -1,4 +1,4 @@
-# 5) Considerando que a aprovação de um aluno em determinada disciplina requer uma média final maior ou igual a 6,0 (seis). Elaborar um programa que receba duas notas, realize o calculo da média, exiba o valor calculado e também se o aluno está aprovado ou reprovado.
+# 6) Considerando que a aprovação de um aluno em determinada disciplina requer uma média final maior ou igual a 6,0 (seis). Elaborar um programa que receba duas notas, realize o calculo da média, exiba o valor calculado e também se o aluno está aprovado ou reprovado.
 
 # Solicita as duas notas do aluno
 nota1 = float(input("Digite a primeira nota: "))

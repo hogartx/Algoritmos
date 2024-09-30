@@ -1,4 +1,4 @@
-# 9) Através do cálculo do Índice de Massa Corporal (IMC) é possível saber se uma pessoa está acima ou abaixo dos parâmetros ideais de peso em relação a sua altura. Para calcular o IMC é necessário dividir o peso (Kg) de Lógica de Programação e Algoritmos em Python Prof. Cláudio Luís V. Oliveira 44 uma pessoa pela sua altura (m) elevada ao quadrado. Elaborar um programa que exiba o valor do IMC de uma pessoa e mostre a sua situação em relação à tabela a seguir:
+# 10) Através do cálculo do Índice de Massa Corporal (IMC) é possível saber se uma pessoa está acima ou abaixo dos parâmetros ideais de peso em relação a sua altura. Para calcular o IMC é necessário dividir o peso (Kg) de Lógica de Programação e Algoritmos em Python Prof. Cláudio Luís V. Oliveira 44 uma pessoa pela sua altura (m) elevada ao quadrado. Elaborar um programa que exiba o valor do IMC de uma pessoa e mostre a sua situação em relação à tabela a seguir:
 # +----------------------+--------------------------------------------+
 # | VALOR DO IMC         | SITUAÇÃO                                  |
 # +----------------------+--------------------------------------------+

@@ -1,4 +1,4 @@
-# 6) Criar um programa que permita ao usuário digitar dois números reais e uma das quatro operações matemáticas básicas e, em seguida, exiba o resultado do cálculo efetuado. A aplicação também não poderá permitir a tentativa de divisão de um número por zero.
+# 7) Criar um programa que permita ao usuário digitar dois números reais e uma das quatro operações matemáticas básicas e, em seguida, exiba o resultado do cálculo efetuado. A aplicação também não poderá permitir a tentativa de divisão de um número por zero.
 
 # Solicita dois números reais do usuário
 numero1 = float(input("Digite o primeiro número real: "))

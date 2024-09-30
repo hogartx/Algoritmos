@@ -1,4 +1,4 @@
-# 7) A partir de cinco números reais, digitados pelo usuário, exibir o valor da média considerando apenas os números que são maiores que zero e menores do que mil.
+# 8) A partir de cinco números reais, digitados pelo usuário, exibir o valor da média considerando apenas os números que são maiores que zero e menores do que mil.
 
 
 # Solicita cinco números reais do usuário
